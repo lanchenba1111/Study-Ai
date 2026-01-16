@@ -11,7 +11,7 @@ import rehypeKatex from 'rehype-katex';
 import html2pdf from 'html2pdf.js';
 import 'katex/dist/katex.min.css';
 
-const API_KEY = "AIzaSyBGsnM6SY4VFp0a-hxxuFWmmCCjW4vXTZ8"; 
+const API_KEY = "AIzaSyBFOUdFGm94q2h6sCOmqYtMoE1m-S5n_RU"; 
 
 export default function App() {
   const [board, setBoard] = useState('');
